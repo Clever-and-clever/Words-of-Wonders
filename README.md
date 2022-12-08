@@ -8,3 +8,5 @@
 В начале игры в слова с элементами соединялки WOW вам будут даны некоторые буквы и одна подсказка. Вам предстоит пораскинуть мозгами, чтобы написать и придумать новые слова, а затем разгадать с их помощью кроссворд.
 
 Процессы выполнения проекта: https://github.com/Clever-and-clever/Words-of-Wonders/blob/main/docs/process.md
+
+Team: https://github.com/Clever-and-clever/Words-of-Wonders/blob/main/docs/team.md
